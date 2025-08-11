@@ -77,6 +77,13 @@
   - xgboost (اختياري للتجارب)  
   - openpyxl (لقراءة Excel)  
 
+
+
+## عرض واجهة التطبيق
+
+<img width="100%" height="300" alt="واجهة التطبيق" src="https://github.com/user-attachments/assets/79336f70-b4de-4217-aef5-2c98f857a6c9" />
+
+
 تثبيت الحزم:
 ```bash
 pip install -r requirements.txt
@@ -125,7 +132,4 @@ features.pkl
 التأكد من اتساق القيم النصية بين التدريب والإنتاج؛ أي قيمة غير معروفة للـ LabelEncoder ستسبب خطأ.
 
 
-##عرض واجهة التطبيق
-
-<img width="1909" height="972" alt="image" src="https://github.com/user-attachments/assets/79336f70-b4de-4217-aef5-2c98f857a6c9" />
 
